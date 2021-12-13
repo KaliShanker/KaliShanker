@@ -1,7 +1,7 @@
 ### 👋 Hello!
-I'm Kali, a data scientist with experience in cell therapy, microbiology and chemistry. I love challenges being outside! 
+I'm Kali, a data scientist with experience in cell therapy, microbiology and chemistry. I love challenges and being outside! 
 ### 👀 I’m interested in
-Continuing my education, finding a role where I can optimize my unique background, and solving life's puzzles 
+Continuing my education, finding a role where I can optimize my unique background, and solving life's puzzles. 
 ### 🌱 I’m currently learning
 Databases! Specifically, Tableau and SQL. I would like to dive deeper and expand my knowledge in machine learning.
 ### 📫 You can reach me on

@@ -1,14 +1,15 @@
 ### 👋 Hello!
-I'm Kali, a data scientist with experience in cell therapy, microbiology and chemistry. I love challenges and being outside! 
-### 👀 I’m interested in
-Continuing my education, finding a role where I can optimize my unique background, and solving life's puzzles. 
+I'm Kali, a data scientist leveraging my significant technical experience in cell therapy, microbiology and chemistry.
+### :nerd_face: I’m interested in
+Gaining experience in bioinformatics, specifically by analyzing multi-omic datasets to obtain a better understanding of the dynamics of molecular systems. Building machine learning models for predictive analysis and image recognition. 
 ### 🌱 I’m currently learning
-Databases! Specifically, Tableau and SQL. I would like to dive deeper and expand my knowledge in machine learning.
+Tableau, as well as analyzing NGS datasets, and furthering my knowledge on model deployment and optimization.
 ### 📫 You can reach me on
-My [Linkedin](https://www.google.com "Kali's Linkedin") or [electronic mail](mailto:kshanker09@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
+My [Linkedin](https://www.google.com "Kali's Linkedin") or [email](mailto:kshanker09@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
 ### :woman_technologist: I'm most proud of 
-Helping cure patients with cancer, and my capstone project on loan classifcation, the latter of which can be accessed [here](https://github.com/KaliShanker/Classification_LoanDefault).
-
+Obtaining my ceritifcate in Data Science from MIT while simultaneously working on a cure for blood cancers, in addition to my capstone project on [loan classification](https://github.com/KaliShanker/Classification_LoanDefault).
+###	:round_pushpin: Thank you
+For stopping by! 
 
 <!---
 KaliShanker/KaliShanker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
